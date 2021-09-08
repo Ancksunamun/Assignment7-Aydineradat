@@ -1,0 +1,5 @@
+this,in
+is,hast
+a,yek
+book,ketab
+bakc,posht
